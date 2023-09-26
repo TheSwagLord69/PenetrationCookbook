@@ -26,23 +26,23 @@ Best viewed in [Obsidian](https://obsidian.md/).
 
 Copy the URL
 
-![Copy URL](Assets/1. Copy URL.png)
+![Copy URL](Assets/1._Copy_URL.png)
 
 Clone the repo
 
-![Clone GitHub Repo](Assets/2. git clone.png)
+![Clone GitHub Repo](Assets/2._git_clone.png)
 
 Execute Obsidian
 
-![Clone GitHub Repo](Assets/3. Run obsidian.png)
+![Clone GitHub Repo](Assets/3._Run_obsidian.png)
 
-![Clone GitHub Repo](Assets/5. obsidian.png)
+![Clone GitHub Repo](Assets/5._obsidian.png)
 
 Open Folder as Vault
 
-![Clone GitHub Repo](Assets/4. Open folder as vault.png)
+![Clone GitHub Repo](Assets/4._Open_folder_as_vault.png)
 
-![Clone GitHub Repo](Assets/6. profit.png)
+![Clone GitHub Repo](Assets/6._profit.png)
 
 # Collaborators
 
