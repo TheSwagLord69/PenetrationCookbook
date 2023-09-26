@@ -1,4 +1,4 @@
-![alt text](Assets/Cover.png)
+![CoverImage](Assets/Cover.png)
 
 This repository serves as a comprehensive reference for all things related to ethical hacking, penetration testing, and navigating CTF challenges. 
 
@@ -21,6 +21,28 @@ Best viewed in [Obsidian](https://obsidian.md/).
 
 ## Hashtag
 > Useful tags meant to be used for Obsidian's graph view
+
+# Usage with Obsidian
+
+Copy the URL
+
+![Copy URL](Assets/1. Copy URL.png)
+
+Clone the repo
+
+![Clone GitHub Repo](Assets/2. git clone.png)
+
+Execute Obsidian
+
+![Clone GitHub Repo](Assets/3. Run obsidian.png)
+
+![Clone GitHub Repo](Assets/5. obsidian.png)
+
+Open Folder as Vault
+
+![Clone GitHub Repo](Assets/4. Open folder as vault.png)
+
+![Clone GitHub Repo](Assets/6. profit.png)
 
 # Collaborators
 
