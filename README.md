@@ -1,4 +1,4 @@
-![alt text](Cover.png)
+![alt text](Assets/Cover.png)
 
 This repository serves as a comprehensive reference for all things related to ethical hacking, penetration testing, and navigating CTF challenges. 
 
